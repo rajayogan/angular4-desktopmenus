@@ -1,5 +1,7 @@
-# Desktop app starter base with Angular 4 and Electron
+# Desktop app with Angular 4 and Electron
 
-For further details - http://tphangout.com/?p=747
+## Menus and multiple windows
+
+For further details - http://tphangout.com/?p=764
 
 
